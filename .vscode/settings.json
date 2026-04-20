@@ -1,0 +1,13 @@
+{  
+  "dart.lineLength": 80,
+  "[dart]": {
+    "editor.rulers": [80],
+    "editor.codeActionsOnSave": {
+      "quickfix.add.required": "explicit",
+      "quickfix.add.required.multi": "explicit",
+      "quickfix.create.constructorForFinalFields": "explicit",
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit"
+    }
+  }
+}
